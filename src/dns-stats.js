@@ -36,7 +36,6 @@ if(result[prefix]){
 }else{
 result[prefix] = 1;
 }
-
 }
 });
 return result;
